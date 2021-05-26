@@ -1,0 +1,18 @@
+.ant-table-filter-trigger {
+    color: #f2efef !important;
+    background: #0d8ae4 !important;
+}
+.ant-table-thead{
+    background-color: blue;
+}
+.ant-table-filter-column-title {
+    color: rgb(10, 10, 10) !important;
+    font-size: 15px !important;
+}
+
+.ant-table-filter-trigger-container {
+    background-color: #0d8ae4 !important;
+} 
+.ant-table table{
+    background-color: rgb(226, 224, 223);
+}   
